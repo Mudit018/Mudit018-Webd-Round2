@@ -1,3 +1,4 @@
+import { Route, Switch } from 'react-router-dom';
 import Home from './Home';
 import Navbar from "./Navbar";
 import Api from "./Api";
@@ -13,19 +14,6 @@ import Standsuper from './Standsuper';
 import Standpremier from './Standpremier';
 
 function App() {
-
-  // const [users, setUsers] = useState([]);
-
-  //   const getUsers = async () => {
-  //       const response = await fetch('https://api.github.com/users');
-  //       console.log(response);
-  //       setUsers(await response.json());
-  //       // console.log(data);
-  //   }
-
-  //   useEffect(() => {
-  //       getUsers();
-  //   }, []);
 
   return (
     <>
