@@ -7,5 +7,5 @@ This website is a **Football** oriented website made for the overwhelming footba
 
 Contents | information
 ------------ | -------------
-Home Page | * Home page is contains all the latest and trending news about football
-(Coninuation)| * This page is made using HTML and CSS
+Home Page | Home page is contains all the latest and trending news about football. This page is made using HTML and CSS.
+Leagues Page | Leagues page can be visited by clicking on **Leagues** dropdown menu in the navigation where the user can visit all the leagues by going to **All Leagues** and can also  vist indivisual leagues by selectiong their names.
