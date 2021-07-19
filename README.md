@@ -40,3 +40,12 @@ git clone https://github.com/Mudit018/WebD-Selection.git**
 
 3. At last, user will get the desired information. 
 ![Image3](https://github.com/Mudit018/Mudit018-Webd-Round2/blob/main/snip3.jpg?raw=true)
+
+
+## Contributing to the Project
+
+1. Fork this repository from the above given option.
+1. Then clone the forked project on your device.
+1. Make changes in code in the local copy of the project and add comments using comment tag and state its use and way of working.
+1. Then push your locally changed project to your forked repository.
+1. Then raise a pull request to the main branch specifying all the changes in the listed format with a brief discription.
