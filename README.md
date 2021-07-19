@@ -8,4 +8,4 @@ This website is a **Football** oriented website made for the overwhelming footba
 Contents | information
 ------------ | -------------
 Home Page | * Home page is contains all the latest and trending news about football
-----------| * This page is made using HTML and CSS
+| * This page is made using HTML and CSS
