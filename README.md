@@ -14,6 +14,16 @@ This website is a **Football** oriented website made for the overwhelming footba
 **Standings Page** | Standings have been displayed separately for both the leagues. A user can visit the standing table by first clicking on **Standings** from **Navigation Bar** and then selecting the league from the drop down menu according to his choice. 
 
 
-## Running the Project Locally
+## Visiting the Project
 
 This website can be visited either by [Clicking Here](https://football-scores-and-stats.herokuapp.com/) or by clicking: https://football-scores-and-stats.herokuapp.com/.
+
+
+## Cloning the Project in your System
+
+1. Make sure your machine is having internet connection.
+1. Open shell (which ever your OS support) on your PC.
+1. Change drive to the location where you want your project to be copied
+1. Now type or copy-paste the below given commands.
+
+
