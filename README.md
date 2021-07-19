@@ -71,6 +71,6 @@ components.
 building blocks. A programmer then puts the blocks together.
 
 
-For making this project, I have used [Sportsmonk API]('https://www.sportmonks.com/') to get information about players, matches and club names in various leagues.
+For making this project, I have used [Sportsmonk API](https://www.sportmonks.com/) to get information about players, matches and club names in various leagues.
 
-One can use this API by visiting their site either clicking above or by clicking on this link: https://www.sportmonks.com/
+One can use this API by visiting their site either by clicking above or by clicking on this link: https://www.sportmonks.com/
