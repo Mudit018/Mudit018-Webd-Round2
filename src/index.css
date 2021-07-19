@@ -90,7 +90,7 @@ body {
 .card:hover{
   box-shadow:2px 2px 10px 10px grey;
   transition: .25s ease-in-out;
-  /* transform: scale(1.0); */
+  transform: scale(1.05);
 }
 
 #news {
@@ -126,7 +126,7 @@ body {
 .news-grid li:hover {
   box-shadow:2px 2px 6px 6px grey;
   transition:.25s ease-in-out;
-  transform: scale(1.1);
+  transform: scale(1.05);
 }
 
 .news-grid .item {
