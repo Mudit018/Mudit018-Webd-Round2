@@ -26,7 +26,7 @@ This website can be visited either by [Clicking Here](https://football-scores-an
 3. Change drive to the location where you want your project to be copied
 4. Now type or copy-paste the below given commands.
 
-git clone https://github.com/Mudit018/WebD-Selection.git**
+git clone https://github.com/Mudit018/WebD-Selection.git
 
 5. Press Enter and the project will be cloned in you system.
 
@@ -44,8 +44,26 @@ git clone https://github.com/Mudit018/WebD-Selection.git**
 
 ## Contributing to the Project
 
-1. Fork this repository from the above given option.
+1. Fork this repository from the above given method.
 1. Then clone the forked project on your device.
 1. Make changes in code in the local copy of the project and add comments using comment tag and state its use and way of working.
 1. Then push your locally changed project to your forked repository.
-1. Then raise a pull request to the main branch specifying all the changes in the listed format with a brief discription.
+1. Then raise a pull request to the main branch specifying all the changes in the listed format with a brief description.
+
+
+## Information About API
+
+#### API
+> An application program interface (API) is a set of routines, protocols, and
+tools for building software applications.
+
+> Basically, an API specifies how software components should interact.
+Additionally, APIs are used when programming graphical user interface (GUI)
+components.
+
+> A good API makes it easier to develop a program by providing all the
+building blocks. A programmer then puts the blocks together.
+
+For making this project, I have used [Sportsmonk API]('https://www.sportmonks.com/') to get information about players, matches and club names in various leagues.
+
+One can use this API by visiting their site either clicking above or by clicking on this link: https://www.sportmonks.com/
