@@ -16,4 +16,4 @@ This website is a **Football** oriented website made for the overwhelming footba
 
 ## Running the Project Locally
 
-This website can be visited either by [Clicking Here](https://football-scores-and-stats.herokuapp.com/standpremier) or by clicking: https://football-scores-and-stats.herokuapp.com/standpremier.
+This website can be visited either by [Clicking Here](https://football-scores-and-stats.herokuapp.com/) or by clicking: https://football-scores-and-stats.herokuapp.com/.
