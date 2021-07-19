@@ -126,7 +126,7 @@ body {
 .news-grid li:hover {
   box-shadow:2px 2px 6px 6px grey;
   transition:.25s ease-in-out;
-  transform: scale(1.2);
+  transform: scale(1.1);
 }
 
 .news-grid .item {
