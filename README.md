@@ -33,3 +33,5 @@ git clone https://github.com/Mudit018/WebD-Selection.git**
 ## How to use the search 
 
 ![Image 1](https://github.com/Mudit018/Mudit018-Webd-Round2/blob/main/Snip1.jpg?raw=true) 
+![Image2](https://github.com/Mudit018/Mudit018-Webd-Round2/blob/main/Snip2.jpg?raw=true)
+![Image3](https://github.com/Mudit018/Mudit018-Webd-Round2/blob/main/snip3.jpg?raw=true)
