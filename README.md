@@ -31,3 +31,5 @@ git clone https://github.com/Mudit018/WebD-Selection.git**
 5. Press Enter and the project will be cloned in you system.
 
 ## How to use the search 
+
+![Image 1](https://github.com/Mudit018/Mudit018-Webd-Round2/blob/main/Snip1.jpg?raw=true) 
