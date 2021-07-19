@@ -32,6 +32,11 @@ git clone https://github.com/Mudit018/WebD-Selection.git**
 
 ## How to use the search 
 
+1. Type the name of the player to be searched.
 ![Image 1](https://github.com/Mudit018/Mudit018-Webd-Round2/blob/main/Snip1.jpg?raw=true) 
+
+2. As we start typing the initials of player's name, the search filter will filter out all the irrelevant players and provide the relevant match.
 ![Image2](https://github.com/Mudit018/Mudit018-Webd-Round2/blob/main/Snip2.jpg?raw=true)
+
+3. At last, user will get the desired information. 
 ![Image3](https://github.com/Mudit018/Mudit018-Webd-Round2/blob/main/snip3.jpg?raw=true)
