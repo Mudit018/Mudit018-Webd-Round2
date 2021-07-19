@@ -182,6 +182,35 @@ const Scores = () => {
                                 </div>
                             </div>
                         </div>
+                        <div className="one">
+                            <div className="mat">
+                                <div class="row1">
+                                    <div class="col1">
+                                    SønderjyskE
+                                    </div>
+                                    <div class="col2">
+                                        0
+                                    </div>
+                                </div>
+                                <div class="row2">
+                                    <div class="col1">
+                                    Vejle BK
+                                    </div>
+                                    <div class="col2">
+                                        1
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="one-three">
+                                <strong>Superliga</strong>
+                                <strong>2021-07-16</strong>
+                                <div class="row">
+                                    <div class="col">
+                                        Match Completed
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="container">
