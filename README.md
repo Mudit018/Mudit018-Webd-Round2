@@ -22,10 +22,12 @@ This website can be visited either by [Clicking Here](https://football-scores-an
 ## Cloning the Project in your System
 
 1. Make sure your machine is having internet connection.
-1. Open shell (which ever your OS support) on your PC.
-1. Change drive to the location where you want your project to be copied
-1. Now type or copy-paste the below given commands.
+2. Open shell (which ever your OS support) on your PC.
+3. Change drive to the location where you want your project to be copied
+4. Now type or copy-paste the below given commands.
 
- **git clone https://github.com/Mudit018/WebD-Selection.git**
- 
-1. Press Enter and the project will be coloned
+git clone https://github.com/Mudit018/WebD-Selection.git**
+
+5. Press Enter and the project will be cloned in you system.
+
+## How to use the search 
