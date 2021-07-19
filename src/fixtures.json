@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "id": 16475287,
+      "league_id": 501,
+      "season_id": 17141,
+      "stage_id": 77447501,
+      "round_id": 194968,
+      "group_id": null,
+      "aggregate_id": null,
+      "venue_id": 8909,
+      "referee_id": 14859,
+      "localteam_id": 53,
+      "visitorteam_id": 338,
+      "winner_team_id": 53,
+      "weather_report": {
+        "code": "clouds",
+        "type": "few clouds",
+        "icon": "https://cdn.sportmonks.com/images/weather/02d.png",
+        "temperature": { "temp": 59.94, "unit": "fahrenheit" },
+        "temperature_celcius": { "temp": 15.5, "unit": "celcius" },
+        "clouds": "20%",
+        "humidity": "67%",
+        "pressure": 1014,
+        "wind": { "speed": "10.29 m/s", "degree": 300 },
+        "coordinates": { "lat": 55.87, "lon": -4.26 },
+        "updated_at": "2020-08-02T17:15:04.814798Z"
+      },
+      "commentaries": false,
+      "attendance": null,
+      "pitch": null,
+      "details": null,
+      "neutral_venue": false,
+      "winning_odds_calculated": true,
+      "formations": {
+        "localteam_formation": "4-2-3-1",
+        "visitorteam_formation": "4-4-2"
+      },
+      "scores": {
+        "localteam_score": 5,
+        "visitorteam_score": 1,
+        "localteam_pen_score": null,
+        "visitorteam_pen_score": null,
+        "ht_score": "2-1",
+        "ft_score": "5-1",
+        "et_score": null,
+        "ps_score": null
+      },
+      "time": {
+        "status": "FT",
+        "starting_at": {
+          "date_time": "2020-08-02 15:30:00",
+          "date": "2020-08-02",
+          "time": "15:30:00",
+          "timestamp": 1596382200,
+          "timezone": "UTC"
+        },
+        "minute": 90,
+        "second": null,
+        "added_time": null,
+        "extra_minute": null,
+        "injury_time": null
+      },
+      "coaches": {
+        "localteam_coach_id": 1467946,
+        "visitorteam_coach_id": 30082158
+      },
+      "standings": { "localteam_position": 1, "visitorteam_position": 12 },
+      "assistants": {
+        "first_assistant_id": 12118,
+        "second_assistant_id": 17249,
+        "fourth_official_id": 15815
+      },
+      "leg": "1/1",
+      "colors": {
+        "localteam": {
+          "color": "#007848",
+          "kit_colors": "#F0F0F0,#139343,#5B0623,#0A0A0A,#5C8FAE,#FFDF1B,#F0F0F0"
+        },
+        "visitorteam": {
+          "color": "#0046A8",
+          "kit_colors": "#0046A8,#0046A8,#0046A8,#0046A8,#C40010,#0046A8,#0046A8"
+        }
+      },
+      "deleted": false,
+      "is_placeholder": false
+    }
+  ],
+  "meta": {
+    "plans": [{ "name": "Free Plan", "request_limit": "180,60" }],
+    "sports": [
+      { "id": 1, "name": "Soccer", "current": true },
+      { "id": 6, "name": "Cricket", "current": false }
+    ],
+    "pagination": {
+      "total": 1,
+      "count": 1,
+      "per_page": 100,
+      "current_page": 1,
+      "total_pages": 1,
+      "links": {}
+    }
+  }
+}

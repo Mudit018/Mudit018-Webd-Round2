@@ -1,0 +1,275 @@
+{
+  "data": [
+    {
+      "id": 18117742,
+      "league_id": 271,
+      "season_id": 18334,
+      "stage_id": 77453568,
+      "round_id": 246624,
+      "group_id": null,
+      "aggregate_id": null,
+      "venue_id": 1436,
+      "referee_id": 14652,
+      "localteam_id": 2394,
+      "visitorteam_id": 2447,
+      "winner_team_id": null,
+      "weather_report": null,
+      "commentaries": false,
+      "attendance": null,
+      "pitch": null,
+      "details": null,
+      "neutral_venue": false,
+      "winning_odds_calculated": false,
+      "formations": {
+        "localteam_formation": null,
+        "visitorteam_formation": null
+      },
+      "scores": {
+        "localteam_score": 0,
+        "visitorteam_score": 0,
+        "localteam_pen_score": null,
+        "visitorteam_pen_score": null,
+        "ht_score": null,
+        "ft_score": null,
+        "et_score": null,
+        "ps_score": null
+      },
+      "time": {
+        "status": "NS",
+        "starting_at": {
+          "date_time": "2021-07-18 12:00:00",
+          "date": "2021-07-18",
+          "time": "12:00:00",
+          "timestamp": 1626609600,
+          "timezone": "UTC"
+        },
+        "minute": null,
+        "second": null,
+        "added_time": null,
+        "extra_minute": null,
+        "injury_time": null
+      },
+      "coaches": {
+        "localteam_coach_id": 35305804,
+        "visitorteam_coach_id": 37563968
+      },
+      "standings": { "localteam_position": 6, "visitorteam_position": 11 },
+      "assistants": {
+        "first_assistant_id": 15740,
+        "second_assistant_id": 15871,
+        "fourth_official_id": 15708
+      },
+      "leg": "1/1",
+      "colors": null,
+      "deleted": false,
+      "is_placeholder": false
+    },
+    {
+      "id": 18117743,
+      "league_id": 271,
+      "season_id": 18334,
+      "stage_id": 77453568,
+      "round_id": 246624,
+      "group_id": null,
+      "aggregate_id": null,
+      "venue_id": 4832,
+      "referee_id": 14654,
+      "localteam_id": 7466,
+      "visitorteam_id": 2356,
+      "winner_team_id": null,
+      "weather_report": null,
+      "commentaries": false,
+      "attendance": null,
+      "pitch": null,
+      "details": null,
+      "neutral_venue": false,
+      "winning_odds_calculated": false,
+      "formations": {
+        "localteam_formation": null,
+        "visitorteam_formation": null
+      },
+      "scores": {
+        "localteam_score": 0,
+        "visitorteam_score": 0,
+        "localteam_pen_score": null,
+        "visitorteam_pen_score": null,
+        "ht_score": null,
+        "ft_score": null,
+        "et_score": null,
+        "ps_score": null
+      },
+      "time": {
+        "status": "NS",
+        "starting_at": {
+          "date_time": "2021-07-18 12:00:00",
+          "date": "2021-07-18",
+          "time": "12:00:00",
+          "timestamp": 1626609600,
+          "timezone": "UTC"
+        },
+        "minute": null,
+        "second": null,
+        "added_time": null,
+        "extra_minute": null,
+        "injury_time": null
+      },
+      "coaches": {
+        "localteam_coach_id": 26715332,
+        "visitorteam_coach_id": 457649
+      },
+      "standings": { "localteam_position": 10, "visitorteam_position": 7 },
+      "assistants": {
+        "first_assistant_id": 16959,
+        "second_assistant_id": 39108,
+        "fourth_official_id": 71284
+      },
+      "leg": "1/1",
+      "colors": null,
+      "deleted": false,
+      "is_placeholder": false
+    },
+    {
+      "id": 18117744,
+      "league_id": 271,
+      "season_id": 18334,
+      "stage_id": 77453568,
+      "round_id": 246624,
+      "group_id": null,
+      "aggregate_id": null,
+      "venue_id": 5655,
+      "referee_id": 15741,
+      "localteam_id": 85,
+      "visitorteam_id": 1020,
+      "winner_team_id": null,
+      "weather_report": null,
+      "commentaries": false,
+      "attendance": null,
+      "pitch": null,
+      "details": null,
+      "neutral_venue": false,
+      "winning_odds_calculated": false,
+      "formations": {
+        "localteam_formation": null,
+        "visitorteam_formation": null
+      },
+      "scores": {
+        "localteam_score": 0,
+        "visitorteam_score": 0,
+        "localteam_pen_score": null,
+        "visitorteam_pen_score": null,
+        "ht_score": null,
+        "ft_score": null,
+        "et_score": null,
+        "ps_score": null
+      },
+      "time": {
+        "status": "NS",
+        "starting_at": {
+          "date_time": "2021-07-18 14:00:00",
+          "date": "2021-07-18",
+          "time": "14:00:00",
+          "timestamp": 1626616800,
+          "timezone": "UTC"
+        },
+        "minute": null,
+        "second": null,
+        "added_time": null,
+        "extra_minute": null,
+        "injury_time": null
+      },
+      "coaches": {
+        "localteam_coach_id": 456421,
+        "visitorteam_coach_id": 18932187
+      },
+      "standings": { "localteam_position": 5, "visitorteam_position": 2 },
+      "assistants": {
+        "first_assistant_id": 11698,
+        "second_assistant_id": 12809,
+        "fourth_official_id": 24299
+      },
+      "leg": "1/1",
+      "colors": null,
+      "deleted": false,
+      "is_placeholder": false
+    },
+    {
+      "id": 18117745,
+      "league_id": 271,
+      "season_id": 18334,
+      "stage_id": 77453568,
+      "round_id": 246624,
+      "group_id": null,
+      "aggregate_id": null,
+      "venue_id": 339977,
+      "referee_id": 18335,
+      "localteam_id": 2905,
+      "visitorteam_id": 293,
+      "winner_team_id": null,
+      "weather_report": null,
+      "commentaries": false,
+      "attendance": null,
+      "pitch": null,
+      "details": null,
+      "neutral_venue": false,
+      "winning_odds_calculated": false,
+      "formations": {
+        "localteam_formation": null,
+        "visitorteam_formation": null
+      },
+      "scores": {
+        "localteam_score": 0,
+        "visitorteam_score": 0,
+        "localteam_pen_score": null,
+        "visitorteam_pen_score": null,
+        "ht_score": null,
+        "ft_score": null,
+        "et_score": null,
+        "ps_score": null
+      },
+      "time": {
+        "status": "NS",
+        "starting_at": {
+          "date_time": "2021-07-18 17:00:00",
+          "date": "2021-07-18",
+          "time": "17:00:00",
+          "timestamp": 1626627600,
+          "timezone": "UTC"
+        },
+        "minute": null,
+        "second": null,
+        "added_time": null,
+        "extra_minute": null,
+        "injury_time": null
+      },
+      "coaches": {
+        "localteam_coach_id": 458696,
+        "visitorteam_coach_id": 896137
+      },
+      "standings": { "localteam_position": 3, "visitorteam_position": 4 },
+      "assistants": {
+        "first_assistant_id": 12105,
+        "second_assistant_id": 16530,
+        "fourth_official_id": 34211
+      },
+      "leg": "1/1",
+      "colors": null,
+      "deleted": false,
+      "is_placeholder": false
+    }
+  ],
+  "meta": {
+    "plans": [{ "name": "Free Plan", "request_limit": "180,60" }],
+    "sports": [
+      { "id": 1, "name": "Soccer", "current": true },
+      { "id": 6, "name": "Cricket", "current": false }
+    ],
+    "pagination": {
+      "total": 4,
+      "count": 4,
+      "per_page": 100,
+      "current_page": 1,
+      "total_pages": 1,
+      "links": {}
+    }
+  }
+}

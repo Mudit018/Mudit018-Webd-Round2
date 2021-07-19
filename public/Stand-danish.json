@@ -1,0 +1,147 @@
+[
+  {
+    "Club": "Randers",
+    "played": 1,
+    "won": 1,
+    "draw": 0,
+    "lost": 0,
+    "goalfor": 2,
+    "goalagainst": 0,
+    "goaldiff": 2,
+    "pts": 3,
+    "last5": "🟢⚫⚫⚫⚫"
+  },
+  {
+    "Club": "OB",
+    "played": 1,
+    "won": 1,
+    "draw": 0,
+    "lost": 0,
+    "goalfor": 2,
+    "goalagainst": 1,
+    "goaldiff": 1,
+    "pts": 3,
+    "last5": "🟢⚫⚫⚫⚫"
+  },
+  {
+    "Club": "Viborg",
+    "played": 1,
+    "won": 1,
+    "draw": 0,
+    "lost": 0,
+    "goalfor": 2,
+    "goalagainst": 1,
+    "goaldiff": 1,
+    "pts": 3,
+    "last5": "🟢⚫⚫⚫⚫"
+  },
+  {
+    "Club": "AGF",
+    "played": 0,
+    "won": 0,
+    "draw": 0,
+    "lost": 0,
+    "goalfor": 0,
+    "goalagainst": 0,
+    "goaldiff": 0,
+    "pts": 0,
+    "last5": "⚫⚫⚫⚫⚫"
+  },
+  {
+    "Club": "AaB",
+    "played": 0,
+    "won": 0,
+    "draw": 0,
+    "lost": 0,
+    "goalfor": 0,
+    "goalagainst": 0,
+    "goaldiff": 0,
+    "pts": 0,
+    "last5": "⚫⚫⚫⚫⚫"
+  },
+  {
+    "Club": "Brøndby",
+    "played": 0,
+    "won": 0,
+    "draw": 0,
+    "lost": 0,
+    "goalfor": 0,
+    "goalagainst": 0,
+    "goaldiff": 0,
+    "pts": 0,
+    "last5": "⚫⚫⚫⚫⚫"
+  },
+  {
+    "Club": "Copenhagen",
+    "played": 0,
+    "won": 0,
+    "draw": 0,
+    "lost": 0,
+    "goalfor": 0,
+    "goalagainst": 0,
+    "goaldiff": 0,
+    "pts": 0,
+    "last5": "⚫⚫⚫⚫⚫"
+  },
+  {
+    "Club": "Silkeborg",
+    "played": 0,
+    "won": 0,
+    "draw": 0,
+    "lost": 0,
+    "goalfor": 0,
+    "goalagainst": 0,
+    "goaldiff": 0,
+    "pts": 0,
+    "last5": "⚫⚫⚫⚫⚫"
+  },
+  {
+    "Club": "SønderjyskE",
+    "played": 0,
+    "won": 0,
+    "draw": 0,
+    "lost": 0,
+    "goalfor": 0,
+    "goalagainst": 0,
+    "goaldiff": 0,
+    "pts": 0,
+    "last5": "⚫⚫⚫⚫⚫"
+  },
+  {
+    "Club": "Midtjylland",
+    "played": 1,
+    "won": 0,
+    "draw": 0,
+    "lost": 1,
+    "goalfor": 1,
+    "goalagainst": 2,
+    "goaldiff": -1,
+    "pts": 0,
+    "last5": "🔴⚫⚫⚫⚫"
+  },
+
+  {
+    "Club": "Nordsjælland",
+    "played": 1,
+    "won": 0,
+    "draw": 0,
+    "lost": 1,
+    "goalfor": 1,
+    "goalagainst": 2,
+    "goaldiff": -1,
+    "pts": 0,
+    "last5": "🔴⚫⚫⚫⚫"
+  },
+  {
+    "Club": "Vejle BK",
+    "played": 1,
+    "won": 0,
+    "draw": 0,
+    "lost": 1,
+    "goalfor": 0,
+    "goalagainst": 2,
+    "goaldiff": -2,
+    "pts": 0,
+    "last5": "🔴⚫⚫⚫⚫"
+  }
+]
