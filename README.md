@@ -26,5 +26,6 @@ This website can be visited either by [Clicking Here](https://football-scores-an
 1. Change drive to the location where you want your project to be copied
 1. Now type or copy-paste the below given commands.
 
-<a href="foo  
-bar">
+ git clone https://github.com/Mudit018/WebD-Selection.git
+ 
+1. Press Enter and the project will be coloned
