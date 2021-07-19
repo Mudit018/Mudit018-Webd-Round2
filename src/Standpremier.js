@@ -77,6 +77,7 @@ const Standpremier = () => {
                         <strong>🟢 Win</strong>
                         <strong>🔴 Lost</strong>
                         <strong>⚫ Not Played</strong>
+                        <strong>🔘 Tie</strong>
                     </div>
                 </div>
             </div>
