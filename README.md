@@ -33,17 +33,17 @@ git clone https://github.com/Mudit018/WebD-Selection.git
 ## How to use the search 
 
 1. Type the name of the player to be searched.
-2. 
+
 ![Image 1](https://github.com/Mudit018/Mudit018-Webd-Round2/blob/main/Snip1.jpg?raw=true) 
 
 
 2. As we start typing the initials of player's name, the search filter will filter out all the irrelevant players and provide the relevant match.
-3. 
+
 ![Image2](https://github.com/Mudit018/Mudit018-Webd-Round2/blob/main/Snip2.jpg?raw=true)
 
 
 3. At last, user will get the desired information. 
-4. 
+
 ![Image3](https://github.com/Mudit018/Mudit018-Webd-Round2/blob/main/snip3.jpg?raw=true)
 
 
@@ -69,6 +69,8 @@ components.
 
 > A good API makes it easier to develop a program by providing all the
 building blocks. A programmer then puts the blocks together.
+
+
 
 
 For making this project, I have used [Sportsmonk API](https://www.sportmonks.com/) to get information about players, matches and club names in various leagues.
