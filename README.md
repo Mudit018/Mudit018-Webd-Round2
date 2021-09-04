@@ -12,7 +12,7 @@ This website is a **Football** oriented website made for the overwhelming footba
 **Players Page** | Players page can be visited by clicking on **Players** drop down menu on the **Navigation Bar**. By clicking there, a user can visit the players of both the leagues. A **.Json** file has been created and it has been later on fetched for getting the players information. A **Search Filter** has also been applied, which searches a player according to his **Name**.
 **Match Page** | Match Page can be visited by clicking on **Matches** on the **Navigation Bar**. This page displays data about live matches, past matches and the matches which are scheduled for future.
 **Standings Page** | Standings have been displayed separately for both the leagues. A user can visit the standing table by first clicking on **Standings** from **Navigation Bar** and then selecting the league from the drop down menu according to his choice. 
-
+_______________________________________________________________________________
 
 ## Visiting the Project
 
